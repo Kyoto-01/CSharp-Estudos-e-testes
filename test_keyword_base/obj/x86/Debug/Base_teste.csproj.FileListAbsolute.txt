@@ -1,0 +1,7 @@
+c:\users\pc casa\documents\visual studio 2010\Projects\Base_teste\Base_teste\bin\Debug\Base_teste.exe
+c:\users\pc casa\documents\visual studio 2010\Projects\Base_teste\Base_teste\bin\Debug\Base_teste.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\Base_teste\Base_teste\obj\x86\Debug\Base_teste.exe
+c:\users\pc casa\documents\visual studio 2010\Projects\Base_teste\Base_teste\obj\x86\Debug\Base_teste.pdb
+C:\Users\PC Casa\documents\Visual Studio 2010\Projects\Base_teste\Base_teste\obj\x86\Debug\Base_teste.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\documents\Visual Studio 2010\Projects\Base_teste\test_keyword_base\obj\x86\Debug\Base_teste.exe
+C:\Users\PC Casa\documents\Visual Studio 2010\Projects\Base_teste\test_keyword_base\obj\x86\Debug\Base_teste.pdb
